@@ -1,2 +1,2 @@
 # FrontEndProject
-Front End application using your knowledge of JavaScript, HTML and CSS.
+Front End application using  knowledge of JavaScript, HTML and CSS
